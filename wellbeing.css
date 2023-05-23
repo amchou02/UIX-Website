@@ -1,0 +1,471 @@
+.wellbeing-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.wellbeing-wellbeing {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-image: linear-gradient(180deg, rgba(113, 122, 208, 0.7900000214576721) 9%, rgba(170, 69, 154, 1) 100%);
+}
+.wellbeing-rectangle4 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 143px;
+  position: absolute;
+}
+.wellbeing-navbar {
+  top: 21px;
+  left: 581px;
+  width: 1202px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.wellbeing-image2 {
+  top: 0px;
+  left: 1102px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+.wellbeing-text {
+  top: 25px;
+  color: rgba(255, 255, 255, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text02 {
+  top: 25px;
+  left: 288px;
+  color: rgba(255, 255, 255, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text04 {
+  top: 25px;
+  left: 576px;
+  color: rgba(255, 255, 255, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-line1 {
+  top: 83px;
+  left: 288px;
+  width: 188px;
+  height: 1px;
+  position: absolute;
+}
+.wellbeing-rectangle35 {
+  top: 434px;
+  left: 87px;
+  width: 631px;
+  height: 91px;
+  position: absolute;
+}
+.wellbeing-rectangle37 {
+  top: 569px;
+  left: 87px;
+  width: 631px;
+  height: 91px;
+  position: absolute;
+}
+.wellbeing-link {
+  display: contents;
+}
+.wellbeing-rectangle36 {
+  top: 704px;
+  left: 87px;
+  width: 631px;
+  height: 91px;
+  position: absolute;
+}
+.wellbeing-text06 {
+  top: 445px;
+  left: 187px;
+  color: rgba(255, 255, 255, 1);
+  width: 431px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text08 {
+  top: 310px;
+  left: 187px;
+  color: rgba(255, 255, 255, 1);
+  width: 431px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-trackyourmood {
+  top: 299px;
+  left: 87px;
+  width: 631px;
+  height: 91px;
+  position: absolute;
+}
+.wellbeing-text10 {
+  top: 580px;
+  left: 187px;
+  color: rgba(255, 255, 255, 1);
+  width: 431px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text12 {
+  top: 715px;
+  left: 187px;
+  color: rgba(255, 255, 255, 1);
+  width: 431px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-logo {
+  top: 15px;
+  left: 137px;
+  width: 100px;
+  height: 113px;
+  position: absolute;
+}
+.wellbeing-chart7 {
+  top: 308px;
+  left: 1174px;
+  width: 600px;
+  height: 545px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 16px;
+  background-color: rgba(253, 253, 253, 0.949999988079071);
+}
+.wellbeing-chart71 {
+  top: 114px;
+  left: 0px;
+  width: 600px;
+  height: 415px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.wellbeing-rectangle158 {
+  top: 385px;
+  left: 359px;
+  width: 50px;
+  height: 30px;
+  position: absolute;
+  border-radius: 20px;
+}
+.wellbeing-vector20 {
+  top: 65.998046875px;
+  left: 0px;
+  width: 600px;
+  height: 299px;
+  position: absolute;
+}
+.wellbeing-vector1 {
+  top: 65.998046875px;
+  left: 1px;
+  width: 599px;
+  height: 151px;
+  position: absolute;
+}
+.wellbeing-rectangle86 {
+  top: 0px;
+  left: 344px;
+  width: 80px;
+  height: 365px;
+  opacity: 0.30;
+  position: absolute;
+  border-radius: 20px 20px 0 0;
+}
+.wellbeing-ellipse40 {
+  top: 74px;
+  left: 359px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 6px;
+}
+.wellbeing-text14 {
+  top: 393px;
+  left: 40px;
+  color: var(--dl-color-default-textcolor);
+  width: 23px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 11px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text16 {
+  top: 393px;
+  left: 371px;
+  color: var(--dl-color-default-lightbackground);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text18 {
+  top: 393px;
+  left: 121px;
+  color: var(--dl-color-default-textcolor);
+  width: 24px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 11px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text20 {
+  top: 393px;
+  left: 205px;
+  color: var(--dl-color-default-textcolor);
+  width: 25px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 11px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text22 {
+  top: 393px;
+  left: 458px;
+  color: var(--dl-color-default-textcolor);
+  width: 24px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 11px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text24 {
+  top: 393px;
+  left: 289px;
+  color: var(--dl-color-default-textcolor);
+  width: 23px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 11px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text26 {
+  top: 393px;
+  left: 540px;
+  color: var(--dl-color-default-textcolor);
+  width: 20px;
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 11px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-vector19 {
+  top: 365px;
+  left: 0px;
+  width: 600px;
+  height: 1px;
+  opacity: 0.10;
+  position: absolute;
+}
+.wellbeing-tab {
+  top: 27px;
+  left: 108px;
+  width: 386px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wellbeing-base {
+  top: 0px;
+  left: 0px;
+  width: 386px;
+  height: 48px;
+  position: absolute;
+  border-radius: 15px;
+}
+.wellbeing-weekly {
+  top: 6px;
+  left: 132px;
+  width: 123px;
+  height: 37px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wellbeing-base1 {
+  top: 0px;
+  left: 0px;
+  width: 123px;
+  height: 37px;
+  position: absolute;
+  border-radius: 10px;
+}
+.wellbeing-text28 {
+  top: 8px;
+  left: 40px;
+  color: rgba(111, 33, 209, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text30 {
+  top: 14px;
+  left: 305px;
+  color: rgba(119, 131, 143, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: right;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.wellbeing-text32 {
+  top: 14px;
+  left: 23px;
+  color: rgba(119, 131, 143, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

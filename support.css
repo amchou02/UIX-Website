@@ -1,0 +1,317 @@
+html{overflow-y: scroll; overflow-x: hidden; scroll-behavior: smooth;}
+
+
+.support-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.support-support {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-image: linear-gradient(180deg, rgba(113, 122, 208, 0.949999988079071) 6%, rgba(170, 69, 154, 1) 100%);
+}
+.support-frame4 {
+  top: 210px;
+  left: 37px;
+  width: 1740px;
+  height: 713px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.support-text {
+  top: 978px;
+  left: 99px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-text02 {
+  top: 846px;
+  left: 99px;
+  color: rgba(255, 255, 255, 1);
+  width: 1641px;
+  height: auto;
+  position: absolute;
+  font-size: 72px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-text11 {
+  top: 279px;
+  left: 99px;
+  color: rgba(255, 255, 255, 1);
+  width: 865px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-text16 {
+  top: 25px;
+  left: 99px;
+  color: rgba(255, 255, 255, 1);
+  width: 770px;
+  height: auto;
+  position: absolute;
+  font-size: 72px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-image6 {
+  top: 96px;
+  left: 1143px;
+  width: 600px;
+  height: 600px;
+  position: absolute;
+}
+.support-text18 {
+  top: 1100px;
+  left: 375px;
+  color: rgba(255, 255, 255, 1);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-text20 {
+  top: 1100px;
+  left: 1231px;
+  color: rgba(255, 255, 255, 1);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-imgbinphysiciancartoonhealthcareillustrationpng1 {
+  top: 1212px;
+  left: 1140px;
+  width: 400px;
+  height: 370px;
+  position: absolute;
+}
+.support-image9 {
+  top: 1222px;
+  left: 334px;
+  width: 300px;
+  height: 330px;
+  position: absolute;
+}
+.support-group1 {
+  top: 1552px;
+  left: 310px;
+  width: 348px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.support-text22 {
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  width: 183px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 252.25000381469727%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-text24 {
+  top: 38px;
+  left: 36px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  width: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 252.25000381469727%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-group2 {
+  top: 1552px;
+  left: 1166px;
+  width: 348px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.support-text26 {
+  left: 33px;
+  color: rgba(0, 0, 0, 1);
+  width: 169px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 252.25000381469727%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-text28 {
+  top: 38px;
+  left: 33px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  width: 76px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 252.25000381469727%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-rectangle4 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 143px;
+  position: absolute;
+}
+.support-navbar {
+  top: 15px;
+  left: 37px;
+  width: 1746px;
+  height: 113.15789794921875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.support-image2 {
+  top: 7px;
+  left: 1646px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+.support-text30 {
+  top: 32px;
+  left: 544px;
+  color: rgba(255, 255, 255, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-text32 {
+  top: 32px;
+  left: 832px;
+  color: rgba(255, 255, 255, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-text34 {
+  top: 32px;
+  left: 1120px;
+  color: rgba(255, 255, 255, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.support-line1 {
+  top: 90px;
+  left: 1120px;
+  width: 188px;
+  height: 1px;
+  position: absolute;
+}
+.support-logo {
+  top: 0px;
+  left: 100px;
+  width: 100px;
+  height: 113px;
+  position: absolute;
+}
