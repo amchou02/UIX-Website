@@ -23,7 +23,6 @@
   --dl-size-size-xxlarge: 288px;
   --dl-size-size-maxwidth: 1400px;
   --dl-radius-radius-round: 50%;
-  --dl-color-default-color6: rgba(255, 116, 216, 1);
   --dl-space-space-halfunit: 8px;
   --dl-space-space-sixunits: 96px;
   --dl-space-space-twounits: 32px;
@@ -32,12 +31,8 @@
   --dl-radius-radius-radius8: 8px;
   --dl-space-space-fiveunits: 80px;
   --dl-space-space-fourunits: 64px;
-  --dl-color-default-inactive: rgba(242, 242, 247, 1);
   --dl-space-space-threeunits: 48px;
-  --dl-color-default-textcolor: rgba(68, 68, 89, 1);
-  --dl-color-default-gradient13: rgba(176, 159, 255, 1);
   --dl-space-space-oneandhalfunits: 24px;
-  --dl-color-default-lightbackground: rgba(255, 255, 255, 1);
 }
 .button {
   color: var(--dl-color-gray-black);
@@ -96,18 +91,4 @@
   line-height: 1.15;
   text-transform: none;
   text-decoration: none;
-}
-
-html {
-  line-height: 1.15;
-  overflow-y: scroll;
-  scroll-behavior: smooth;
-}
-body {
-  margin: 0;
-}
-* {
-  box-sizing: border-box;
-  border-width: 0;
-  border-style: solid;
 }
